@@ -1,4 +1,4 @@
-# WWII-Cubes-Reinforcement-Learning-
+# Multi agent learning in a WWII environment
 Self-Learning Tactical Agents in a simplified WWII Arena using Multi-Agent Reinforcement Learning  
   
 Documenting my work on a planned, two-month project where I delve into an interesting topic: Machine learning, technically reinforcement learning. I will also attempt to make the agents work with each other and create a multi-agent learning environment.  
